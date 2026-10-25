@@ -1,7 +1,7 @@
 # Метаданные для gamedev-hub. Хаб читает этот файл из main и показывает на дашборде.
 # phase: idea | prototype | vertical-slice | content | polish | released | paused | archived
-name: Interactive-Museum
-tagline: Интерактивный музей как teamLab, но видеоигра, поэтому интерактива сильно больше
+name: "Interactive-Museum"
+tagline: "Интерактивный музей как teamLab, но видеоигра, поэтому интерактива сильно больше"
 engine: Godot 4.4
 phase: idea
 tracker: github-issues
